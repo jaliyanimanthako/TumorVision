@@ -14,7 +14,9 @@ TumorVision is a cutting-edge web application designed to detect brain tumors sw
 
 ## Team
 - **Chathura Devinda**: Front-end developer, responsible for crafting a seamless and intuitive user experience using Flutter.
-- **Jaliya Nimantha**: Back-end developer, expertly handling model training and image processing using Python, PyTorch, and OpenCV.
+- **Jaliya Nimantha**: Back-end developer, handling model training and image processing using Python, PyTorch, and OpenCV.
 
 ## Current Stage
 TumorVision is currently in the development stage. We have successfully crafted a prototype application that demonstrates our vision. With an overall model accuracy ranging between 60-70%, TumorVision promises to revolutionize the early detection and diagnosis of brain tumors, potentially saving countless lives.
+
+![da](https://github.com/jaliyanimanthako/TumorVision/assets/161110418/dd668d64-81f2-4e97-897e-049a40cbb29e)
