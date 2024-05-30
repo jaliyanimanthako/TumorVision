@@ -18,7 +18,11 @@ TumorVision is a cutting-edge web application designed to detect brain tumors sw
 
 ## Current Stage
 TumorVision is currently in the development stage. We have successfully crafted a prototype application that demonstrates our vision. With an overall model accuracy ranging between 60-70%, TumorVision promises to revolutionize the early detection and diagnosis of brain tumors, potentially saving countless lives.
-<div align=”center”> [![da](https://github.com/jaliyanimanthako/TumorVision/assets/161110418/dd668d64-81f2-4e97-897e-049a40cbb29e)]</div>
+
+<p align="center">
+  <img src="https://github.com/jaliyanimanthako/TumorVision/assets/161110418/dd668d64-81f2-4e97-897e-049a40cbb29e" >
+</p>
+<div align=”center”> [![da]()]</div>
 <div align=”center”> [![download (8)](https://github.com/jaliyanimanthako/TumorVision/assets/161110418/e5889388-ad3a-48c3-8309-ed252333aae2)]</div>
 <div align=”center”> [![Finale](https://github.com/jaliyanimanthako/TumorVision/assets/161110418/8d531028-2ae8-4f88-bb99-3d49798a9ed5)]</div>
 
