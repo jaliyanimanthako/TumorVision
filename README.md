@@ -37,10 +37,13 @@ In addition to identifying specific types of tumors, TumorVision can also confir
 
 TumorVision is currently in the development stage. We have successfully crafted a prototype application that demonstrates our vision. With an overall model accuracy ranging between 60-70%, TumorVision promises to revolutionize the early detection and diagnosis of brain tumors, potentially saving countless lives.
 
+## Demo Video
+
+Check out our demo video to see TumorVision in action: [TumorVision Demo Video]([https://example.com/demo-video](https://www.linkedin.com/posts/jaliya-nimantha-8924b7219_tumorvision-healthtech-deeplearning-activity-7186617881105707008-XiKV?utm_source=share&utm_medium=member_desktop))
+
 ---
 
 Join us on our journey to revolutionize healthcare technology and improve early detection of brain tumors with TumorVision.
-
 <p align="center">
   <img src="https://github.com/jaliyanimanthako/TumorVision/assets/161110418/dd668d64-81f2-4e97-897e-049a40cbb29e" >
 </p>
