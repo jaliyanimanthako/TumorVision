@@ -24,10 +24,6 @@ TumorVision is currently in the development stage. We have successfully crafted 
 </p>
 
 <p align="center">
-  <img src="https://github.com/jaliyanimanthako/TumorVision/assets/161110418/e5889388-ad3a-48c3-8309-ed252333aae2" >
-</p>
-
-<p align="center">
   <img src="(![Finale](https://github.com/jaliyanimanthako/TumorVision/assets/161110418/c5a81a08-1700-48fe-b96c-4724488a1670)" >
 </p>
 
