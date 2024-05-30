@@ -25,7 +25,7 @@ In addition to identifying specific types of tumors, TumorVision can also confir
 - **Swift and Accurate Detection:** Uses deep learning algorithms for the rapid and precise detection of brain tumors.
 - **Comprehensive Tumor Identification:** Capable of identifying glioma tumors, meningioma tumors, pituitary tumors, or confirming the absence of any tumor.
 - **User Experience:** Crafted with Flutter to provide a seamless and intuitive user experience.
-- **Expert Model Handling:** Model training and image processing handled expertly using Python, PyTorch, and OpenCV.
+- **Model Handling:** Model training and image processing handled using Python, PyTorch, and OpenCV.
 - **Efficient Communication:** Flask serves as the bridge between the front end and back end, with ngrok facilitating seamless communication.
 
 ## Team
