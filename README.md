@@ -39,7 +39,7 @@ TumorVision is currently in the development stage. We have successfully crafted 
 
 ## Demo Video
 
-Check out our demo video to see TumorVision in action: [TumorVision Demo Video]([https://example.com/demo-video](https://www.linkedin.com/posts/jaliya-nimantha-8924b7219_tumorvision-healthtech-deeplearning-activity-7186617881105707008-XiKV?utm_source=share&utm_medium=member_desktop))
+Check out our demo video to see TumorVision in action: [TumorVision Demo Video](https://www.linkedin.com/posts/jaliya-nimantha-8924b7219_tumorvision-healthtech-deeplearning-activity-7186617881105707008-XiKV?utm_source=share&utm_medium=member_desktop)
 
 ---
 
