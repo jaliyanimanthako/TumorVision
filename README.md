@@ -28,6 +28,6 @@ TumorVision is currently in the development stage. We have successfully crafted 
 </p>
 
 <p align="center">
-  <img src="(https://github.com/jaliyanimanthako/TumorVision/assets/161110418/8d531028-2ae8-4f88-bb99-3d49798a9ed5" >
+  <img src="(![Finale](https://github.com/jaliyanimanthako/TumorVision/assets/161110418/c5a81a08-1700-48fe-b96c-4724488a1670)" >
 </p>
 
